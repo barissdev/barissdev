@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @barissdev
+Hi there 👋
+
+
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning python and c programming (c# and c++)
 - 💞️ I’m looking to collaborate on ...
