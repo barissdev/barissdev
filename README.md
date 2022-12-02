@@ -1,7 +1,7 @@
  ***Hi there 👋***
  
- -I am currently a software engineering student at Haliç University. 
- -I want to become a game developer by learning python, c++ and c#. 
+ - I am currently a software engineering student at Haliç University. 
+ - I want to become a game developer by learning python, c++ and c#. 
 
 
 - 👀 I’m interested in game development
