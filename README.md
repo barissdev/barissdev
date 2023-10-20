@@ -1,3 +1,6 @@
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+
+ 
  ***Hi there 👋***
  
  I am currently a software engineering student at Haliç University. I want to be a game developer.
