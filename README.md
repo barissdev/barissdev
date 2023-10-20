@@ -3,14 +3,15 @@
  I am currently a software engineering student at Haliç University. I want to be a game developer.
 
 ## ABOUT ME
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning python and c programming (c# and c++)
-- 💞️ I want to contribute to a game development process.
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Python (AI and Data Science).
+- 💞️ I want to learn AI and Data Science and Unity Programming.
 ## CONTACT ME
 
--[Twitter](https://twitter.com/barissonn)
-
 -[Linkedin](https://www.linkedin.com/in/bar%C4%B1%C5%9F-demiro%C4%9F-7b9985214/)
+-[E-mail](barissdemirog@gmail.com)
+
+
 
 
 <!---
