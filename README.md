@@ -9,6 +9,7 @@
 ## CONTACT ME
 
 -[Linkedin](https://www.linkedin.com/in/bar%C4%B1%C5%9F-demiro%C4%9F-7b9985214/)
+
 -[E-mail](barissdemirog@gmail.com)
 
 
