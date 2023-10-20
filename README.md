@@ -9,6 +9,17 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python (AI and Data Science).
 - 💞️ I want to learn AI and Data Science. And I learn C# for Unity. I'm interested in Game Development.
+
+[![barissdev's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
 ## CONTACT ME
 
 -[Linkedin](https://www.linkedin.com/in/bar%C4%B1%C5%9F-demiro%C4%9F-7b9985214/)
