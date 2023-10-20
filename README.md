@@ -11,10 +11,10 @@
 - 💞️ I want to learn AI and Data Science. And I learn C# for Unity. I'm interested in Game Development.
 
 ## 🧑‍💻 Languages
--Python
--C#
--C
--Javascript
+- Python
+- C#
+- C
+- Javascript
 
 
   
