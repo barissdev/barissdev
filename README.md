@@ -8,7 +8,7 @@
 ## ABOUT ME
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python (AI and Data Science).
-- 💞️ I want to learn AI and Data Science. And I learn C# for Unity. I'm interested in Game Development.
+- 💞️ I want to develop in the field of artificial intelligence and Data Science. As a hobby, I am learning C# and Unity. I am interest in game programming.
 
 ## 🧑‍💻 Languages
 - Python
