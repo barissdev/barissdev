@@ -3,7 +3,7 @@
  
  ***Hi there 👋***
  
- I am currently a software engineering student at Haliç University. I want to be a game developer.
+ I am currently a software engineering student at Haliç University.
 
 ## ABOUT ME
 - 👀 I’m interested in Computer Science
